@@ -1,0 +1,15 @@
+main:
+
+  - title: "MOPS Research Group Empowers Communities"
+    authors: <strong>Julia Gersey</strong> 
+    conference_short: ACM XRDS
+    conference: ACM XRDS 30, 1 (Fall 2023), 74–75.
+    pdf: ../assets/files/mops-xrds.pdf
+    image: ./assets/img/mops-xrds.png
+
+  - title: "Privacy Focused Companies, How Focused Are They?"
+    authors: Brian Krupp, <strong>Julia Gersey</strong>
+    conference_short: ACM SIGCAS
+    conference: ACM SIGCAS Computers and Society, Volume 51, Issue 3
+    pdf: /assets/files/privacy.pdf
+    image: ./assets/img/privacy.png

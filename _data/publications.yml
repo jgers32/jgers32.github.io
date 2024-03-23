@@ -1,0 +1,29 @@
+main:
+
+  - title: "Pilot Study of Deploying IoT Micro Air Quality Sensors in an Urban Environment: Lessons Learned"
+    authors: <strong>Julia Gersey</strong>, Brian Krupp, Jonathon Fagert 
+    conference_short: CCSCMW
+    conference: ACM Midwest Consortium for Computing Sciences in Colleges <strong>(CCSC)</strong>, 2023.
+    pdf: ./assets/files/aqiot-ccsc2023.pdf
+    page: https://mopsdev.bw.edu/~bkrupp/aq/view.html
+    notes: Oral Presentation
+    image: ./assets/img/aqiot-sensor.png
+
+  - title: "Towards Fine-Grained Air Quality Sensing in Urban Environments"
+    authors: Brian Krupp, <strong>Julia Gersey</strong>, Jonathon Fagert, Tony Mlady
+    conference_short: SenSys
+    conference: ACM Conference on Embedded Networked Sensor Systems <strong>(SenSys)</strong>, 2022.
+    poster: ./assets/files/TowardsFine-GrainedAirQualitySensinginUrbanEnvironments.pdf
+    pdf: ./content/aqiot-sensys.pdf
+    page: https://mopsdev.bw.edu/~bkrupp/aq/view.html
+    notes: Poster Presentation
+    image: ./assets/img/sensys.png
+
+  - title: "Campus Plate: Connecting Students on College Campuses to Reduce Food Waste and Food Insecurity"
+    authors: Brian Krupp, <strong>Julia Gersey</strong>, Franklin Lebo
+    conference_short: RACS
+    conference: ACM International Conference on Research in Adaptive and Convergent Systems <strong>(RACS)</strong>, 2022.
+    pdf: ./assets/files/CampusPlate.pdf
+    page: https://mops.bw.edu/cp/
+    notes: Virtual Recorded Presentation
+    image: ./assets/img/cp-racs.png
