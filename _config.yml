@@ -12,7 +12,7 @@ description: Julia Gersey's academic website.
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/citations?user=prJY8nAAAAAJ&hl=en&oi=ao/
-cv_link: assets/files/JuliaGerseyCV.pdf/
+cv_link: ./content/JuliaGerseyCV.pdf/
 github_link: https://github.com/jgers32/
 linkedin: https://www.linkedin.com/in/juliagersey
 twitter: https://twitter.com/juliagersey/
