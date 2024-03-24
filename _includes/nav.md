@@ -1,6 +1,5 @@
 ## Nav
 
-
 <ul style="margin:0 0 20px;">
   <li><a href="https://mops.bw.edu"><autocolor>Mobile & IoT for Planet and Society Research Group (MOPS)</autocolor></a></li>
     <li><a href="https://mops.bw.edu/csplus"><autocolor>CS+ Outreach Group</autocolor></a></li>
