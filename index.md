@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am an incoming Electrical & Computer Engineering Ph.D. student at the [University of Michigan][U-Mich], to be advised by [Pei Zhang][Pei-Zhang] as a member of the 'Structures as Sensors' lab. I am currently finishing up my B.Sc. in both Computer Science and Applied Math at [Baldwin Wallace University][B-W] and am a member of the [Mobile & IoT for Planet and Society (MOPS) Research Group][MOPS] under my advisor, [Brian Krupp][Brian-Krupp]. 
+I am an incoming Electrical & Computer Engineering Ph.D. student at the [University of Michigan][U-Mich], to be advised by [Pei Zhang][Pei-Zhang] as a member of the 'Structures as Sensors' lab. I am currently finishing up my B.Sc. in both Computer Science and Applied Math at [Baldwin Wallace University][B-W] and am a member of the [Mobile & IoT for Planet and Society (MOPS) Research Group][MOPS] under my advisor, [Brian Krupp][Brian-Krupp]. I also serve as the 'Labz' Department Editor for the student-led [ACM XRDS][ACM-XRDS] Magazine. 
 
 ## Research Interests
 
@@ -27,6 +27,7 @@ My undergraduate research focused on a low-cost, low-power solution for Air Qual
 [AQ-IoT]: https://mopsdev.bw.edu/~bkrupp/aq/view.html
 [Pei-Zhang]: https://peizhang.engin.umich.edu
 [B-W]: https://www.bw.edu
+[ACM-XRDS]: https://xrds.acm.org
 [MOPS]: https://mops.bw.edu
 [Brian-Krupp]: https://mops.bw.edu/~bkrupp/
 [NCWIT-AiC-Collegiate-Award]: https://www.aspirations.org/award-programs/aic-collegiate-award 
