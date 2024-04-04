@@ -1,4 +1,5 @@
 ## News
+*   **April 4, 2024:** Received Honorable Mention for the 2024 [NSF GRFP](https://www.research.gov/grfp/AwardeeList.do?method=loadAwardeeList)
 *   **January 8, 2024:** Selected as 1 of 55 Finalists for the [NCWIT AiC Collegiate Award](https://www.aspirations.org/award-programs/aic-collegiate-award)
 *   **September 2023:** Joined the student-run [ACM XRDS Magazine](https://xrds.acm.org/) as the 'LABZ' Department Editor
 *   **August 2023:** Awarded the largest [CIO Tomorrow Scholarship](https://www.cio-tomorrow.com/studentscholarship.html) at $3,590
