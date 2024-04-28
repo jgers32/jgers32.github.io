@@ -42,9 +42,26 @@
       <header>
         
         {% if site.avatar %}
-        <a class="image avatar"><img src="{{ site.avatar }}" alt="avatar" /></a>
+        <a class="image" style="text-align: center; display: block;">
+          <style>
+              .image img {
+                  width: 80%; 
+                  margin-left: 10%;
+                  margin-right: 10%;
+                  border-radius: 10%;
+              }
+              @media only screen and (max-width: 991px) { 
+                  .image img {
+                      width: 35%; 
+                      margin-left: auto;
+                      margin-right: auto;
+                  }
+              }
+          </style>
+          <img src="{{ site.avatar }}" alt="avatar"/>
+        </a>
         {% endif %}
-
+        <br />
         <h1>{{ site.title }}</h1>
 
         {% if site.position %}
