@@ -10,4 +10,5 @@
     <li><a href="https://www.cmu.edu/cs/ourcs/"><autocolor><u>Carnegie Mellon OurCS Women in Tech</u></autocolor></a></li>
     <li><a href="https://osgc.org/"><autocolor><u>NASA Ohio Space Grant Consortium</u></autocolor></a></li>
     <li><a href="https://xrds.acm.org/"><autocolor><u>ACM XRDS Magazine</u></autocolor></a></li>
+    <li><a href="https://summer.hackclub.com"><autocolor><u>Hack Club Summer of Making</u></autocolor></a></li>
 </ul>

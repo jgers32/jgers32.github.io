@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am an incoming Electrical & Computer Engineering Ph.D. student at the [University of Michigan][U-Mich], to be advised by [Pei Zhang][Pei-Zhang] as a member of the 'Structures as Sensors' lab. I am currently finishing up my B.Sc. in both Computer Science and Applied Math at [Baldwin Wallace University][B-W] and am a member of the [Mobile & IoT for Planet and Society (MOPS) Research Group][MOPS] under my advisor, [Brian Krupp][Brian-Krupp]. I also serve as the 'Labz' Department Editor for the student-led [ACM XRDS][ACM-XRDS] Magazine. 
+I'm a first-year Electrical & Computer Engineering Ph.D. student at the [University of Michigan][U-Mich], advised by [Pei Zhang][Pei-Zhang] as a member of the 'Structures as Sensors' lab. I recently finished my B.Sc. in both Computer Science and Applied Math at [Baldwin Wallace University][B-W] where I was a member of the [Mobile & IoT for Planet and Society (MOPS) Research Group][MOPS] under my advisor, [Brian Krupp][Brian-Krupp]. Also, I serve as the 'Labz' Department Editor for the student-led [ACM XRDS Magazine][ACM-XRDS] (email me if you are interested in having your research highlighted!).
 
 ## Research Interests
 
