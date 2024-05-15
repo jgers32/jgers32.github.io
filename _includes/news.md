@@ -1,5 +1,5 @@
 ## News
-*   **May 3, 2024:** Speaking about AQIoT project at the ACM SIGCAS [Work in Progress](https://www.sigcas.org/category/events/wip/) event
+*   **May 3, 2024:** Speaking about AQIoT project at the ACM SIGCAS [Work in Progress](https://www.sigcas.org/2024/03/28/may-3-2024-double-feature-fine-grained-air-quality-sensing-with-internet-of-things-soothsayers-illusionists-con-artists-and-artificial-intelligence/) event
 *   **April 4, 2024:** Received Honorable Mention for the 2024 [NSF GRFP](https://www.research.gov/grfp/AwardeeList.do?method=loadAwardeeList)
 *   **January 8, 2024:** Selected as 1 of 55 Finalists for the [NCWIT AiC Collegiate Award](https://www.aspirations.org/award-programs/aic-collegiate-award)
 *   **September 2023:** Joined the student-run [ACM XRDS Magazine](https://xrds.acm.org/) as the 'LABZ' Department Editor
