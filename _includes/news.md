@@ -1,4 +1,5 @@
 ## News
+*   **June 10, 2024:** Accepted into [@_buildspace](https://buildspace.so/) nights & weekends s5 to build my app (Easy IoT)
 *   **May 3, 2024:** Speaking about AQIoT project at the ACM SIGCAS [Work in Progress](https://www.sigcas.org/2024/03/28/may-3-2024-double-feature-fine-grained-air-quality-sensing-with-internet-of-things-soothsayers-illusionists-con-artists-and-artificial-intelligence/) event
 *   **April 4, 2024:** Received Honorable Mention for the 2024 [NSF GRFP](https://www.research.gov/grfp/AwardeeList.do?method=loadAwardeeList)
 *   **January 8, 2024:** Selected as 1 of 55 Finalists for the [NCWIT AiC Collegiate Award](https://www.aspirations.org/award-programs/aic-collegiate-award)

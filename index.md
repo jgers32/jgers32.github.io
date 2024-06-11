@@ -2,9 +2,14 @@
 layout: homepage
 ---
 
+***June 10 Update*:** Accepted into [@_buildspace][s5] nights & weekends s5 to build my iOS app (Easy IoT) to teach younger students the fundamentals and physical hardware of various IoT boards
+
+---
 ## About Me
 
-I'm a first-year Electrical & Computer Engineering Ph.D. student at the [University of Michigan][U-Mich], advised by [Pei Zhang][Pei-Zhang] as a member of the 'Structures as Sensors' lab. I recently finished my B.Sc. in both Computer Science and Applied Math at [Baldwin Wallace University][B-W] where I was a member of the [Mobile & IoT for Planet and Society (MOPS) Research Group][MOPS] under my advisor, [Brian Krupp][Brian-Krupp]. Also, I serve as the 'Labz' Department Editor for the student-led [ACM XRDS Magazine][ACM-XRDS] (email me if you are interested in having your research highlighted!).
+I'm a first-year Electrical & Computer Engineering Ph.D. student at the [University of Michigan][U-Mich], advised by [Pei Zhang][Pei-Zhang] as a member of the 'Structures as Sensors' lab. I am passionate about building embedded sensing systems to solve unique environmental and community issues. I also love to use IoT for various smart home projects, design and print various 3D odds & ends, as well as build iOS apps using fun API's. I currently serve as the 'Labz' Department Editor for the student-led [ACM XRDS Magazine][ACM-XRDS] (email me if you are interested in having your research highlighted!).
+
+Previously, I got my B.Sc. in both Computer Science and Applied Math at [Baldwin Wallace University][B-W] where I was a member of the [Mobile & IoT for Planet and Society (MOPS) Research Group](images/research/mops-archive.pdf) under my advisor, [Brian Krupp][Brian-Krupp]. (bonus: he created [Ducky Weather](ducky), a simple yet elegant weather app that doesn't sell your location data ☺ )
 
 ## Research Interests
 
@@ -22,14 +27,15 @@ My undergraduate research focused on a low-cost, low-power solution for Air Qual
 {% include_relative _includes/news.md %}
 
 {% include_relative _includes/affiliations.md %}
-
+[s5]: https://buildspace.so
 [U-Mich]: https://umich.edu
 [AQ-IoT]: https://mopsdev.bw.edu/~bkrupp/aq/view.html
 [Pei-Zhang]: https://peizhang.engin.umich.edu
 [B-W]: https://www.bw.edu
 [ACM-XRDS]: https://xrds.acm.org
 [MOPS]: https://mops.bw.edu
-[Brian-Krupp]: https://mops.bw.edu/~bkrupp/
+[Brian-Krupp]: https://krupp.dev
+[ducky]: https://apps.apple.com/us/app/ducky-weather/id6474254666
 [NCWIT-AiC-Collegiate-Award]: https://www.aspirations.org/award-programs/aic-collegiate-award 
 [ACM-XRDS-Magazine]: https://xrds.acm.org
 [CIO-Tomorrow-Scholarship]: https://www.cio-tomorrow.com/studentscholarship.html
