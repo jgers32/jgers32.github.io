@@ -9,7 +9,7 @@ layout: homepage
 
 I'm a first-year Electrical & Computer Engineering Ph.D. student at the [University of Michigan][U-Mich], advised by [Pei Zhang][Pei-Zhang] as a member of the 'Structures as Sensors' lab. I am passionate about building embedded sensing systems to solve unique environmental and community issues. I also love to use IoT for various smart home projects, design and print various 3D odds & ends, as well as build iOS apps using fun API's. I currently serve as the 'Labz' Department Editor for the student-led [ACM XRDS Magazine][ACM-XRDS] (email me if you are interested in having your research highlighted!).
 
-Previously, I got my B.Sc. in both Computer Science and Applied Math at [Baldwin Wallace University][B-W] where I was a member of the [Mobile & IoT for Planet and Society (MOPS) Research Group](images/research/mops-archive.pdf) under my advisor, [Brian Krupp][Brian-Krupp]. (bonus: he created [Ducky Weather](ducky), a simple yet elegant weather app that doesn't sell your location data ☺ )
+Previously, I got my B.Sc. in both Computer Science and Applied Math at [Baldwin Wallace University][B-W] where I was a member of the [Mobile & IoT for Planet and Society (MOPS) Research Group](images/research/mops-archive.pdf) under my advisor, [Brian Krupp][Brian-Krupp]. (bonus: he created [Ducky Weather][ducky], a simple yet elegant weather app that doesn't sell your location data ☺ )
 
 ## Research Interests
 
