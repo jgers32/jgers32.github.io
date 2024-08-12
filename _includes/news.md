@@ -1,5 +1,4 @@
-## News
-*   **June 10, 2024:** Accepted into [@_buildspace](https://buildspace.so/) nights & weekends season 5 (s5)
+## Academic News
 *   **May 15, 2024:** Award the Charles & Elsie Little Graduate Award
 *   **May 3, 2024:** Speaking about AQIoT project at the ACM SIGCAS [Work in Progress](https://www.sigcas.org/2024/03/28/may-3-2024-double-feature-fine-grained-air-quality-sensing-with-internet-of-things-soothsayers-illusionists-con-artists-and-artificial-intelligence/) event
 *   **April 4, 2024:** Received Honorable Mention for the 2024 [NSF GRFP](https://www.research.gov/grfp/AwardeeList.do?method=loadAwardeeList)

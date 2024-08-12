@@ -4,15 +4,17 @@ layout: homepage
 
 ## About Me
 
-I'm a first-year Electrical & Computer Engineering Ph.D. student at the [University of Michigan][U-Mich], advised by [Pei Zhang][Pei-Zhang]. I am passionate about building embedded sensing systems to solve unique environmental and community issues. I also love to use IoT for various smart home projects, design and print various 3D models, upcycle old devices into PCB art + wearables, and build iOS apps using fun API's. I currently serve as the 'Labz' Department Editor for the student-led [ACM XRDS Magazine][ACM-XRDS] (email me if you are interested in having your research highlighted!).
+I'm a first-year Electrical & Computer Engineering Ph.D. student at the [University of Michigan][U-Mich], advised by [Pei Zhang][Pei-Zhang]. I am passionate about building embedded sensing systems to solve unique environmental and community issues. In my free time, I enjoy exploring IoT through side projects, creating custom 3D prints, transforming old devices into PCB art, and building iOS apps with unique APIs.
 
 Previously, I got my B.Sc. in both Computer Science and Applied Math at [Baldwin Wallace University][B-W] where I was a member of the [Mobile & IoT for Planet and Society (MOPS) Research Group](images/research/mops-archive.pdf) under my advisor, [Brian Krupp][Brian-Krupp]. (bonus: he created [Ducky Weather][ducky], a simple yet elegant weather app that doesn't sell your location data ☺ )
+
+ I currently serve as the 'Labz' Department Editor for the student-led [ACM XRDS Magazine][ACM-XRDS] -- email me if you are interested in having your research highlighted!
 
 ## Research Interests
 
 - **Embedded Systems:** internet-of-things, mobile computing, ubiqutious sensing
 - **Sensing Networks:** wireless networks, environmental sensing, mobile health sensing
-- **Machine Learning:** applied models, classification algorithms, image classification
+- **Machine Learning:** applied models, data science, classification algorithms
 - **Human-Computer Interaction:** interaction techniques, community empowerment
 
 My undergraduate research focused on a low-cost, low-power solution for Air Quality sensing with Internet-of-Things ([AQIoT][AQ-IoT]), a mobile application to promote food recovery and reduce food waste, food insecurity, and student hunger on college campuses ([Campus Plate][Campus-Plate]), and combining machine learning models with audio/visual data to enhance a smart classroom sensing system ([EduSense][Edu-Sense]).
