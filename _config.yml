@@ -1,12 +1,12 @@
 # Basic Information 
 title: Julia Gersey
-position: ECE Ph.D. Student
+position: Ph.D. Student
 affiliation: University of Michigan
 email: gersey [at] umich [dot] edu
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: julia gersey umich ece phd electrical computer science engineering michigan baldwin wallace 
+keywords: julia gersey umich ece phd electrical computer science engineering michigan baldwin wallace eecs
 description: Julia Gersey's academic website.
 
 # Links 
@@ -23,7 +23,7 @@ travel: /explore.html
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/casual-headshot.jpg
+avatar: ./assets/img/phd-headshot.png
 favicon: ./assets/img/favicon.ico
 favicon_dark: ./assets/img/favicon.ico
 
