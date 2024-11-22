@@ -5,7 +5,7 @@ main:
     conference_short: CCSCMW
     conference: ACM Midwest Consortium for Computing Sciences in Colleges <strong>(CCSC)</strong>, 2023.
     pdf: ./assets/files/aqiot-ccsc2023.pdf
-    page: https://mopsdev.bw.edu/~bkrupp/aq/view.html
+    page: https://sccvo.org/projects/leveraging-community-partners-and-iot-based-sensors-improve-localized-air-quality
     image: ./assets/img/aqiot-sensor.png
 
   - title: "Towards Fine-Grained Air Quality Sensing in Urban Environments"
@@ -14,7 +14,7 @@ main:
     conference: ACM Conference on Embedded Networked Sensor Systems <strong>(SenSys)</strong>, 2022.
     poster: ./assets/files/TowardsFine-GrainedAirQualitySensinginUrbanEnvironments.pdf
     pdf: ./content/aqiot-sensys.pdf
-    page: https://mopsdev.bw.edu/~bkrupp/aq/view.html
+    page: https://sccvo.org/projects/leveraging-community-partners-and-iot-based-sensors-improve-localized-air-quality
     image: ./assets/img/sensys.png
 
   - title: "Campus Plate: Connecting Students on College Campuses to Reduce Food Waste and Food Insecurity"
