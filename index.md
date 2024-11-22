@@ -4,26 +4,24 @@ layout: homepage
 
 ## About Me
 
-I'm an Electrical & Computer Engineering Ph.D. student at the [University of Michigan][U-Mich], advised by [Pei Zhang][Pei-Zhang] as a member of the [NohPei Lab][NohPei]. I'm majoring in Embedded Systems with a focus on building hardware, systems, and wireless sensing networks to solve unique environmental and community issues. In my free time, I enjoy using IoT for side projects, 3D printing, transforming old devices into PCB art, and web development.
+I'm a first-year Ph.D. student in Electrical and Computer Engineering at the [University of Michigan][U-Mich], advised by [Pei Zhang][Pei-Zhang]. I'm a member of the joint [Structures as Sensors Lab][NohPei] between the University of Michigan and Stanford University. I'm majoring in Embedded Systems, which a focus on building hardware, systems, and sensing networks to address environmental and community challenges.
 
-Previously, I got my B.Sc. in both Computer Science and Applied Math at [Baldwin Wallace University][B-W] where I was a member of the <b>M</b>obile & I<b>o</b>T for <b>P</b>lanet and <b>S</b>ociety [(MOPS) Research Group][MOPS] under my advisor, [Brian Krupp][Brian-Krupp]. (bonus: he created [Ducky Weather][ducky], a simple yet elegant weather app that doesn't sell your location data ☺ )
+I earned my B.Sc. in Computer Science and Applied Mathematics from [Baldwin Wallace University][B-W], where I was part of the [<b>M</b>obile & I<b>o</b>T for <b>P</b>lanet and <b>S</b>ociety Research Group][MOPS] under the guidance of [Brian Krupp][Brian-Krupp]. (Fun fact: he developed [Ducky Weather][ducky], a weather app that respects your privacy!)
 
-<i>I currently serve as the 'Labz' Department Editor for the student-led [ACM XRDS Magazine][ACM-XRDS] -- email me if you are interested in having your research highlighted!</i>
+*I’m the 'Labz' Editor for the [ACM XRDS Magazine][ACM-XRDS] — contact me to have your research featured!*
 
 ## Research Interests
 
-- **Embedded Systems:** internet-of-things, mobile computing, ubiqutious networks
-- **Sensing Networks:** wireless, environmental, & health sensing
-- **Human-Computer Interaction:** interaction techniques, community empowerment
-
-My undergraduate research focused on a low-cost, low-power solution for Air Quality sensing with Internet-of-Things ([AQIoT][AQ-IoT]), a mobile application to promote food recovery and reduce food waste, food insecurity, and student hunger on college campuses ([Campus Plate][Campus-Plate]), and combining machine learning models with audio/visual data to enhance a smart classroom sensing system ([EduSense][Edu-Sense]).
-
+- **Embedded Systems:** internet-of-things, mobile computing
+- **Sensing Networks:** wireless, environmental, and health sensing
+- **Human-Centered Computing:** ubiquitous and pervasive networks
 
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/news.md %}
 
 {% include_relative _includes/affiliations.md %}
+
 [s5]: https://buildspace.so
 [U-Mich]: https://umich.edu
 [AQ-IoT]: https://mopsdev.bw.edu/~bkrupp/aq/view.html

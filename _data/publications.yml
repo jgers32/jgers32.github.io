@@ -6,7 +6,6 @@ main:
     conference: ACM Midwest Consortium for Computing Sciences in Colleges <strong>(CCSC)</strong>, 2023.
     pdf: ./assets/files/aqiot-ccsc2023.pdf
     page: https://mopsdev.bw.edu/~bkrupp/aq/view.html
-    notes: Oral Presentation
     image: ./assets/img/aqiot-sensor.png
 
   - title: "Towards Fine-Grained Air Quality Sensing in Urban Environments"
@@ -16,7 +15,6 @@ main:
     poster: ./assets/files/TowardsFine-GrainedAirQualitySensinginUrbanEnvironments.pdf
     pdf: ./content/aqiot-sensys.pdf
     page: https://mopsdev.bw.edu/~bkrupp/aq/view.html
-    notes: Poster Presentation
     image: ./assets/img/sensys.png
 
   - title: "Campus Plate: Connecting Students on College Campuses to Reduce Food Waste and Food Insecurity"
@@ -25,5 +23,4 @@ main:
     conference: ACM International Conference on Research in Adaptive and Convergent Systems <strong>(RACS)</strong>, 2022.
     pdf: ./assets/files/CampusPlate.pdf
     page: https://mops.bw.edu/cp/
-    notes: Virtual Recorded Presentation
     image: ./assets/img/cp-racs.png
