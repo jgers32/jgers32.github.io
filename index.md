@@ -6,9 +6,9 @@ layout: homepage
 
 I'm a first-year Ph.D. student in Electrical and Computer Engineering at the [University of Michigan][U-Mich], advised by [Pei Zhang][Pei-Zhang]. I'm a member of the joint [Structures as Sensors Lab][NohPei] between the University of Michigan and Stanford University. I'm majoring in Embedded Systems, which a focus on building hardware, systems, and sensing networks to address environmental and community challenges.
 
-I earned my B.Sc. in Computer Science and Applied Mathematics from [Baldwin Wallace University][B-W], where I was part of the [<b>M</b>obile & I<b>o</b>T for <b>P</b>lanet and <b>S</b>ociety Research Group][MOPS] under the guidance of [Brian Krupp][Brian-Krupp]. (Fun fact: he developed [Ducky Weather][ducky], a weather app that respects your privacy!)
+I earned my B.Sc. in Computer Science and Applied Mathematics from [Baldwin Wallace University][B-W], while being a member of the [<b>M</b>obile & I<b>o</b>T for <b>P</b>lanet and <b>S</b>ociety Research Group][MOPS] under [Brian Krupp][Brian-Krupp]. (Fun fact: he developed [Ducky Weather][ducky], a weather app that respects your privacy!)
 
-*I’m the 'Labz' Editor for the [ACM XRDS Magazine][ACM-XRDS] — contact me to have your research featured!*
+> *I’m the [ACM XRDS Magazine][ACM-XRDS] 'Labz' Editor — email me to feature your research!*
 
 ## Research Interests
 

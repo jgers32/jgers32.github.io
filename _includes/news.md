@@ -1,7 +1,9 @@
 ## Recent News
+*   **December 20, 2024:** Accepted into Computing Research Association's [2025 Grad Cohort for Women Workshop](https://cra.org/cra-wp/grad-cohort-for-women/) (CRA-WP)
 *   **August 26, 2024:** Started my Ph.D. at the University of Michigan!
 *   **May 15, 2024:** Award the Baldwin Wallace University Charles & Elsie Little Graduate Award
 *   **May 3, 2024:** Speaking about AQIoT project at the ACM SIGCAS [Work in Progress](https://www.sigcas.org/2024/03/28/may-3-2024-double-feature-fine-grained-air-quality-sensing-with-internet-of-things-soothsayers-illusionists-con-artists-and-artificial-intelligence/) event
+*   **April 2024:** Received the Baldwin Wallace University Woman of Achievement Award 
 *   **April 4, 2024:** Received Honorable Mention for the 2024 [NSF GRFP](https://www.research.gov/grfp/AwardeeList.do?method=loadAwardeeList)
 *   **January 8, 2024:** Selected as 1 of 55 Finalists for the [NCWIT AiC Collegiate Award](https://www.aspirations.org/award-programs/aic-collegiate-award)
 *   **August 2023:** Awarded the largest [CIO Tomorrow Scholarship](https://www.cio-tomorrow.com/studentscholarship.html) at $3,590
