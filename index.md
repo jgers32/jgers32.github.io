@@ -8,7 +8,7 @@ I'm a first-year Ph.D. student in Electrical and Computer Engineering at the [Un
 
 I earned my B.Sc. in Computer Science and Applied Mathematics from [Baldwin Wallace University][B-W], while being a member of the [<b>M</b>obile & I<b>o</b>T for <b>P</b>lanet and <b>S</b>ociety Research Group][MOPS] under [Brian Krupp][Brian-Krupp]. (Fun fact: he developed [Ducky Weather][ducky], a weather app that respects your privacy!)
 
-> *I’m the [ACM XRDS Magazine][ACM-XRDS] 'Labz' Editor — email me to feature your research!*
+*I’m the [ACM XRDS Magazine][ACM-XRDS] 'Labz' Editor — email me to feature your research!*
 
 ## Research Interests
 
