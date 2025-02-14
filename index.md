@@ -4,9 +4,7 @@ layout: homepage
 
 ## About Me
 
-I'm a first-year Ph.D. student in Electrical and Computer Engineering at the [University of Michigan][U-Mich], advised by [Pei Zhang][Pei-Zhang]. I'm a member of the joint [Structures as Sensors Lab][NohPei] between the University of Michigan and Stanford University. I'm majoring in Embedded Systems, which a focus on building hardware, systems, and sensing networks to address environmental and community challenges.
-
-I earned my B.Sc. in Computer Science and Applied Mathematics from [Baldwin Wallace University][B-W], while being a member of the [<b>M</b>obile & I<b>o</b>T for <b>P</b>lanet and <b>S</b>ociety Research Group][MOPS] under [Brian Krupp][Brian-Krupp]. (Fun fact: he developed [Ducky Weather][ducky], a weather app that respects your privacy!)
+I'm a first-year Ph.D. student in Electrical and Computer Engineering at the [University of Michigan][U-Mich], advised by [Pei Zhang][Pei-Zhang]. I'm a member of the joint [Structures as Sensors Lab][NohPei] between the University of Michigan and Stanford University. I'm majoring in Embedded Systems, which a focus on building hardware, systems, and sensing networks to address environmental and community challenges. I earned my B.Sc. in Computer Science and Applied Mathematics from [Baldwin Wallace University][B-W], while being a member of the [Mobile & IoT for Planet and Society Research Group][MOPS] under [Brian Krupp][Brian-Krupp]. (Fun fact: he developed [Ducky Weather][ducky], a weather app that respects your privacy!)
 
 *I’m the [ACM XRDS Magazine][ACM-XRDS] 'Labz' Editor — email me to feature your research!*
 
@@ -40,4 +38,4 @@ I earned my B.Sc. in Computer Science and Applied Mathematics from [Baldwin Wall
 [OCWIC]: https://ocwic23.ocwic.org
 [Campus-Plate]: https://mops.bw.edu/cp/
 [Edu-Sense]: https://www.edusense.io
-[NohPei]: https://github.com/NohPei
+[NohPei]: https://noh-lab.stanford.edu/research
