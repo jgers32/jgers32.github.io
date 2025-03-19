@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I'm a first-year Ph.D. student in Electrical and Computer Engineering at the [University of Michigan](#U-Mich), advised by [Pei Zhang](#Pei-Zhang). My research focuses on developing multimodal sensing networks and intelligent systems for environmental monitoring and smart communities, including [vehicular environmental monitoring](#neighbor-drive) and [virus detection](#CPI). I also serve as the [ACM XRDS Magazine](#ACM-XRDS) Labz Editor – *email me to feature your research*!
+I'm a first-year Ph.D. student in Electrical and Computer Engineering at the [University of Michigan][U-Mich], advised by [Pei Zhang][Pei-Zhang]. My research focuses on developing multimodal sensing networks and intelligent systems for environmental monitoring and smart communities, including [vehicular environmental monitoring][neighbor-drive] and [virus detection][CPI]. I also serve as the [ACM XRDS Magazine][ACM-XRDS] Labz Editor – *email me to feature your research*!
 
 <!--  I earned a B.Sc. in Computer Science and Applied Mathematics from [Baldwin Wallace University][B-W], where I was a member of the [Mobile & IoT for Planet and Society Research Group][MOPS] under [Brian Krupp][Brian-Krupp]. (Fun fact: he developed [Ducky Weather][ducky], a weather app that respects your privacy!) -->
 
