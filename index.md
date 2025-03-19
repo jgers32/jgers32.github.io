@@ -4,9 +4,9 @@ layout: homepage
 
 ## About Me
 
-I'm a first-year Ph.D. student in Electrical and Computer Engineering at the [University of Michigan][U-Mich], advised by [Pei Zhang][Pei-Zhang]. I'm a member of the joint [Structures as Sensors Lab][NohPei] between the University of Michigan and Stanford University. I'm majoring in Embedded Systems, which a focus on building hardware, systems, and sensing networks to address environmental and community challenges. I earned my B.Sc. in Computer Science and Applied Mathematics from [Baldwin Wallace University][B-W], while being a member of the [Mobile & IoT for Planet and Society Research Group][MOPS] under [Brian Krupp][Brian-Krupp]. (Fun fact: he developed [Ducky Weather][ducky], a weather app that respects your privacy!)
+I'm a first-year Ph.D. student in Electrical and Computer Engineering at the [University of Michigan][U-Mich], advised by [Pei Zhang][Pei-Zhang]. I specialize in Embedded Systems, focusing on developing multimodal sensing networks and intelligent systems to advance environmental monitoring and smart communities. My current research focuses on developing multimodal sensing systems for various applications, including [vehicular environmental monitoring][neighbor-drive] and [virus detection][CPI]. Additionally, I serve as the [ACM XRDS Magazine][ACM-XRDS] Labz Editor – *email me to feature your research*!
 
-*I’m the [ACM XRDS Magazine][ACM-XRDS] 'Labz' Editor — email me to feature your research!*
+<!--  I earned a B.Sc. in Computer Science and Applied Mathematics from [Baldwin Wallace University][B-W], where I was a member of the [Mobile & IoT for Planet and Society Research Group][MOPS] under [Brian Krupp][Brian-Krupp]. (Fun fact: he developed [Ducky Weather][ducky], a weather app that respects your privacy!) -->
 
 ## Research Interests
 
@@ -39,3 +39,5 @@ I'm a first-year Ph.D. student in Electrical and Computer Engineering at the [Un
 [Campus-Plate]: https://mops.bw.edu/cp/
 [Edu-Sense]: https://www.edusense.io
 [NohPei]: https://noh-lab.stanford.edu/research
+[neighbor-drive]: https://www.nsf.gov/awardsearch/showAward?AWD_ID=2409138&HistoricalAwards=false
+[CPI]: https://www.pandemicinsights.org
