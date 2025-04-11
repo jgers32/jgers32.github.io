@@ -1,0 +1,99 @@
+/* ---------------------------
+   Maker Mode Global Styling
+---------------------------- */
+
+body {
+	background: repeating-linear-gradient(
+	  to bottom,
+	  #0f0f0f,
+	  #0f0f0f 28px,
+	  #111111 29px,
+	  #0f0f0f 30px
+	);
+	font-family: 'Source Code Pro', monospace;
+	color: #00ff99;
+	overflow-x: hidden;
+  }
+  
+  /* Add terminal scan lines */
+  body::before {
+	content: "";
+	position: fixed;
+	top: 0; left: 0; right: 0; bottom: 0;
+	background-image: repeating-linear-gradient(
+	  to bottom,
+	  rgba(0, 255, 100, 0.03),
+	  rgba(0, 255, 100, 0.03) 1px,
+	  transparent 1px,
+	  transparent 3px
+	);
+	z-index: 0;
+	pointer-events: none;
+	animation: matrixPulse 2s infinite;
+  }
+  
+  @keyframes matrixPulse {
+	0%, 100% { opacity: 0.2; }
+	50% { opacity: 0.1; }
+  }
+  
+  
+  /* ---------------------------
+	 Boot Log Section
+  ---------------------------- */
+  
+  #boot-logs {
+	padding: 1em 2em;
+	font-size: 1rem;
+	z-index: 1;
+  }
+  
+  #boot-logs p {
+	font-family: 'Source Code Pro', monospace;
+	color: #00ff99;
+	margin: 0.5em 0;
+  }
+  
+  /* Terminal typing animation */
+  @keyframes terminal-typing {
+	to {
+	  width: 100%;
+	}
+  }
+  
+  #boot-logs p {
+	overflow: hidden;
+	white-space: nowrap;
+	width: 0;
+	animation: terminal-typing 1.2s steps(30, end) forwards;
+  }
+  
+  /* ---------------------------
+	 Maker Body Reveal
+  ---------------------------- */
+  
+  .maker-body-content {
+	padding: 2em;
+	opacity: 0;
+	transition: opacity 0.6s ease-in-out;
+	z-index: 1;
+	position: relative;
+  }
+  
+  .maker-body-content.visible {
+	opacity: 1;
+  }
+  
+  /* Return button */
+  #exit-maker {
+	font-family: 'Source Code Pro', monospace;
+	background: black;
+	border: 1px dashed #00ff99;
+	color: #00ff99;
+	padding: 6px 12px;
+	box-shadow: 0 0 10px #00ff99;
+	cursor: pointer;
+	margin-top: 1em;
+	display: inline-block;
+  }
+  
