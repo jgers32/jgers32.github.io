@@ -1,7 +1,7 @@
 ## Recent News
-*   **April 9, 2025:** Thrilled to receive a [Department of Energy Computational Science Fellowship](https://www.krellinst.org/csgf/) (DOE CSGF)!
-*   **March 10, 2025:** "Sniffing out the City" Poster was accepted to [ACM SenSys 2025](https://sensys.acm.org/2025/)
-*   **December 20, 2024:** Accepted into Computing Research Association's [2025 Grad Cohort for Women Workshop](https://cra.org/cra-wp/grad-cohort-for-women/) (CRA-WP)
+*   **April 9, 2025:** Thrilled to receive a [Department of Energy Computational Science Fellowship](https://www.krellinst.org/csgf/)!
+*   **March 10, 2025:** 'Sniffing out the City' Poster was accepted to [ACM SenSys 2025](https://sensys.acm.org/2025/)
+*   **December 20, 2024:** Accepted to Computing Research Association's [Grad Cohort for Women](https://cra.org/cra-wp/grad-cohort-for-women/) 
 *   **August 26, 2024:** Started my Ph.D. at the University of Michigan!
 *   **May 3, 2024:** Speaking about AQIoT project at the ACM SIGCAS [Work in Progress](https://www.sigcas.org/2024/03/28/may-3-2024-double-feature-fine-grained-air-quality-sensing-with-internet-of-things-soothsayers-illusionists-con-artists-and-artificial-intelligence/) event
 *   **April 2024:** Honored to recieve the Baldwin Wallace University Woman of Achievement Award 

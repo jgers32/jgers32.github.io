@@ -4,7 +4,11 @@ layout: homepage
 
 ## About Me
 
-I’m a first-year Ph.D. student in Electrical and Computer Engineering at the [University of Michigan][U-Mich], advised by [Pei Zhang][Pei-Zhang]. I'm majoring in Embedded Systems, with a focus on building hardware, systems, and sensing networks to address environmental and community challenges. My current research focuses on developing multimodal sensing networks and intelligent systems for applications such as vehicular environmental monitoring and virus detection. I also serve as the [ACM XRDS Magazine][ACM-XRDS] Labz Editor – *email me to feature your research*!
+I’m a first-year Ph.D. student in Electrical and Computer Engineering at the [University of Michigan][U-Mich], where I’m advised by [Pei Zhang][Pei-Zhang]. My research spans Embedded Systems, Human-Centered Computing, Mobile Computing & Sensing, and the Internet of Things (IoT). I’m particularly interested in building sensing networks and mobile multimodal sensing systems that address environmental and community challenges. I’m an incoming [Department of Energy Computational Science Graduate Fellow][DOE_CSGF] (DOE CSGF), where my research will focus on integrating large-scale data collection, high-performance computing, and real-world sensing to support responsive, equitable, and data-driven urban environments. This work aims to develop systems capable of monitoring and analyzing rapidly changing city conditions to better serve its communities.
+
+Outside of research, I serve as the Labz Editor for [ACM XRDS Magazine][ACM-XRDS], where I highlight emerging technologies, student projects, and creative applications of computing — reach out if you’d like your work featured!
+
+
 
 ## Research Interests
 
@@ -20,4 +24,5 @@ _Didn't find what you came for? If only you knew a code... a Konami code perhaps
 
 [U-Mich]: https://umich.edu  
 [Pei-Zhang]: https://peizhang.engin.umich.edu  
+[DOE_CSGF]: https://www.krellinst.org/csgf/
 [ACM-XRDS]: https://xrds.acm.org
