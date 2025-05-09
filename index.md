@@ -4,17 +4,17 @@ layout: homepage
 
 ## About Me
 
-I’m a first-year Ph.D. student in Electrical and Computer Engineering at the [University of Michigan][U-Mich], where I’m advised by [Pei Zhang][Pei-Zhang]. My research spans Embedded Systems, Human-Centered Computing, Mobile Computing & Sensing, and the Internet of Things (IoT). I’m particularly interested in building sensing networks and mobile multimodal sensing systems that address environmental and community challenges. I’m an incoming [Department of Energy Computational Science Graduate Fellow][DOE_CSGF] (DOE CSGF), where my research will focus on integrating large-scale data collection, high-performance computing, and real-world sensing to support responsive, equitable, and data-driven urban environments. This work aims to develop systems capable of monitoring and analyzing rapidly changing city conditions to better serve its communities.
+I’m a first-year Ph.D. student in Electrical and Computer Engineering at the [University of Michigan][U-Mich], where I’m advised by [Pei Zhang][Pei-Zhang]. My research spans Mobile Computing & Sensing, Embedded Systems, and Human-Centered Computing. I’m particularly interested in building sensing networks and multimodal systems to address environmental and community challenges. 
 
-Outside of research, I serve as the Labz Editor for [ACM XRDS Magazine][ACM-XRDS], where I highlight emerging technologies, student projects, and creative applications of computing — reach out if you’d like your work featured!
+I’m an incoming [Department of Energy Computational Science Graduate Fellow][DOE_CSGF] (DOE CSGF), which will support my research on a vehicular multimodal sensing system that combines vision and air quality data for real-time monitoring and analysis of rapidly changing urban conditions. This work aims to help cities respond more equitably and efficiently allocate resources where they’re needed most, particularly in areas affected by homelessness.
 
-
+Outside of research, I serve as the Labz Editor for [ACM XRDS Magazine][ACM-XRDS], where I highlight student research projects from across the globe — email me if you’re interested in having your work featured!
 
 ## Research Interests
 
 - **Embedded Systems:** internet-of-things, mobile computing  
-- **Sensing Networks:** wireless, environmental, and health sensing  
-- **Human-Centered Computing:** ubiquitous and pervasive networks
+- **Sensing Networks:** urban, environmental, and health sensing  
+- **Human-Centered Computing:** ubiquitous systems, real-world deployments 
 
 {% include_relative _includes/publications.md %}
 {% include_relative _includes/news.md %}

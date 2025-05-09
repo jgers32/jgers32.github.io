@@ -1,10 +1,19 @@
 main:
 
+  - title: "‘Sniffing Out the City’ - Vehicular Multimodal Sensing for Environmental and Infrastructure Analysis" 
+    authors: <strong>Julia Gersey</strong>, Jatin Aggarwal, Jiale Zhang, Jesse Codling, Pei Zhang
+    conference_short: SenSys
+    conference: ACM Conference on Embedded Networked Sensor Systems <strong>(SenSys)</strong>, 2025.
+    pdf: https://dl.acm.org/doi/10.1145/3715014.3724043
+    poster: ./content/Sniffing-out-the-City.pdf
+    image: ./assets/img/sniffing.png
+    notes: Best Poster Award
+
   - title: "Pilot Study of Deploying IoT Micro Air Quality Sensors in an Urban Environment: Lessons Learned"
     authors: <strong>Julia Gersey</strong>, Brian Krupp, Jonathon Fagert 
     conference_short: CCSCMW
     conference: ACM Midwest Consortium for Computing Sciences in Colleges <strong>(CCSC)</strong>, 2023.
-    pdf: ./assets/files/aqiot-ccsc2023.pdf
+    pdf: https://dl.acm.org/doi/10.5555/3637036.3637044
     page: https://sccvo.org/projects/leveraging-community-partners-and-iot-based-sensors-improve-localized-air-quality
     image: ./assets/img/aqiot-sensor.png
 
@@ -13,7 +22,7 @@ main:
     conference_short: SenSys
     conference: ACM Conference on Embedded Networked Sensor Systems <strong>(SenSys)</strong>, 2022.
     poster: ./assets/files/TowardsFine-GrainedAirQualitySensinginUrbanEnvironments.pdf
-    pdf: ./content/aqiot-sensys.pdf
+    pdf: https://dl.acm.org/doi/10.1145/3560905.3568071
     page: https://sccvo.org/projects/leveraging-community-partners-and-iot-based-sensors-improve-localized-air-quality
     image: ./assets/img/sensys.png
 
@@ -21,6 +30,6 @@ main:
     authors: Brian Krupp, <strong>Julia Gersey</strong>, Franklin Lebo
     conference_short: RACS
     conference: ACM International Conference on Research in Adaptive and Convergent Systems <strong>(RACS)</strong>, 2022.
-    pdf: ./assets/files/CampusPlate.pdf
+    pdf: https://dl.acm.org/doi/10.1145/3538641.3561506
     page: https://mops.bw.edu/cp/
     image: ./assets/img/cp-racs.png

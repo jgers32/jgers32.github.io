@@ -1,6 +1,6 @@
-<h2 id="publications" style="margin: 25px 0px 1px;">Publications</h2>
+<h2 id="publications" style="margin: 25px 0px 1px;">Selected Publications</h2>
 
-<h4 style="margin: 12px 0px -15px;"><i>Peer-Reviewed</i></h4>
+<!-- <h4 style="margin: 12px 0px -15px;"><i>Peer-Reviewed</i></h4> -->
 
 <div class="publications">
 <ol class="bibliography">
@@ -8,10 +8,10 @@
 {% for link in site.data.publications.main %}
 
 <li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+<div class="pub-row" style="margin-top: -1em;">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 5px;">
     {% if link.image %} 
-    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
+    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100;height=50%">
     {% endif %}
     {% if link.conference_short %} 
     <abbr class="badge">{{ link.conference_short }}</abbr>
@@ -55,7 +55,8 @@
 
 </ol>
 </div>
-<h4 style="margin: -15px 0px -15px;"><i>Other Articles</i></h4>
+<!-- 5/9/2025: removing this section so website only has selected peer-reviewed publications... RIP! -->
+<!-- <h4 style="margin: -15px 0px -15px;"><i>Other Articles</i></h4> 
 
 <div class="publications">
 <ol class="bibliography">
@@ -108,6 +109,7 @@
 
 {% endfor %}
 
+
 </ol>
-</div>
+</div>-->
 
