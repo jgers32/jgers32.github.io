@@ -1,6 +1,7 @@
 ## Recent News
+* **May 13, 20225:** Accepted to the Graduate Student Mentorship Training Course for [UR2PhD](https://cra.org/ur2phd/)
 *   **May 8, 2025:** Best Poster Award for 'Sniffing out the City' at ACM SenSys 2025
-*   **April 9, 2025:** Thrilled to receive a [Department of Energy Computational Science Fellowship](https://www.krellinst.org/csgf/)!
+*   **April 9, 2025:** Thrilled to receive a [Department of Energy Computational Science Fellowship](https://www.energy.gov/science/articles/us-department-energy-selects-35th-class-computational-science-graduate-fellows)!
 *   **March 10, 2025:** 'Sniffing out the City' Poster was accepted to [ACM SenSys 2025](https://sensys.acm.org/2025/)
 *   **December 20, 2024:** Accepted to Computing Research Association's [Grad Cohort for Women](https://cra.org/cra-wp/grad-cohort-for-women/) 
 *   **August 26, 2024:** Started my Ph.D. at the University of Michigan -- Go Blue!
