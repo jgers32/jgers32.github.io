@@ -1,7 +1,7 @@
 ## Relevant Affiliations
 
 <ul style="margin:0 0 20px;">
-    <!-- <li><a href="https://www.firstinspires.org"><autocolor><u>FIRST Robotics</u></autocolor></a></li> -->
+    <li><a href="https://pihisamurai.org"><autocolor><u>PiHi Samurai Robotics</u></autocolor></a></li>
     <li><a href="https://www.krellinst.org/csgf/"><autocolor><u>DOE CSGF</u></autocolor></a></li>
     <li><a href="https://www.pandemicinsights.org/"><autocolor><u>NSF Center for Pandemic Insights</u></autocolor></a></li>
     <li><a href="https://xrds.acm.org/"><autocolor><u>ACM XRDS Magazine</u></autocolor></a></li>
