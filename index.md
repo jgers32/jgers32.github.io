@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I’m a second-year Ph.D. student in Electrical and Computer Engineering at the [University of Michigan][U-Mich], advised by [Pei Zhang][Pei-Zhang]. My research spans mobile computing, sensor networks, and human-centered computing. I’m particularly interested in building smart networks and human-centered systems to address environmental and community challenges.
+I’m a second-year Ph.D. student in Electrical and Computer Engineering at the [University of Michigan][U-Mich], advised by [Pei Zhang][Pei-Zhang]. My research spans mobile computing, sensor networks, and human-centered computing. I’m particularly interested in building sensing networks and smart systems that address environmental and community challenges.
 
 I’m a [Department of Energy Computational Science Graduate Fellow][DOE_CSGF] (DOE CSGF), supporting my research on a vehicular multimodal sensing system paired with high-performance computing to monitor and analyze rapidly changing urban conditions. This work aims to help cities respond more equitably and allocate resources more efficiently, particularly in areas affected by homelessness.
 
