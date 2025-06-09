@@ -10,6 +10,8 @@
             --secondary-color: #4a5568;
             --background-color: #f7fafc;
             --card-background: #ffffff;
+            --card-min-height: 600px;
+            --image-height: 220px;
         }
 
         body {
@@ -47,21 +49,40 @@
             box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
             overflow: hidden;
             transition: transform 0.2s ease;
+            height: var(--card-min-height);
+            display: flex;
+            flex-direction: column;
         }
 
         .article-card:hover {
             transform: translateY(-5px);
         }
 
+        .image-container {
+            width: 100%;
+            height: var(--image-height);
+            overflow: hidden;
+            flex-shrink: 0;
+            background-color: #f0f0f0;
+            position: relative;
+        }
+
         .article-image {
             width: 100%;
-            height: 200px;
+            height: 100%;
             object-fit: cover;
-            background-color: #e2e8f0;
+            transition: transform 0.3s ease;
+        }
+
+        .article-card:hover .article-image {
+            transform: scale(1.05);
         }
 
         .article-content {
             padding: 1.5rem;
+            flex-grow: 1;
+            display: flex;
+            flex-direction: column;
         }
 
         .article-date {
@@ -75,24 +96,40 @@
             font-weight: 600;
             margin: 0.5rem 0;
             color: var(--primary-color);
+            display: -webkit-box;
+            -webkit-line-clamp: 3;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+            margin-bottom: 1rem;
         }
 
         .article-author {
             color: var(--secondary-color);
             font-size: 0.9rem;
-            margin-bottom: 1rem;
+            margin-bottom: 0.5rem;
+        }
+
+        .article-description {
+            color: var(--secondary-color);
+            font-size: 0.9rem;
+            margin-top: 0.5rem;
+            display: -webkit-box;
+            -webkit-line-clamp: 8;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+            line-height: 1.5;
         }
 
         .article-link {
             text-decoration: none;
             color: inherit;
+            height: 100%;
+            display: block;
         }
 
-        .loading {
-            text-align: center;
-            padding: 2rem;
-            font-size: 1.2rem;
-            color: var(--secondary-color);
+        .article-meta {
+            margin-top: auto;
+            padding-top: 1rem;
         }
 
         @media (max-width: 768px) {
@@ -103,6 +140,40 @@
             .press-grid {
                 grid-template-columns: 1fr;
             }
+
+            :root {
+                --card-min-height: 450px;
+                --image-height: 200px;
+            }
+        }
+
+        .loading-spinner {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 40px;
+            height: 40px;
+            border: 4px solid #f3f3f3;
+            border-top: 4px solid var(--primary-color);
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+        }
+
+        @keyframes spin {
+            0% { transform: translate(-50%, -50%) rotate(0deg); }
+            100% { transform: translate(-50%, -50%) rotate(360deg); }
+        }
+
+        .article-image {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            transition: opacity 0.3s ease;
+        }
+
+        .article-image.loading {
+            opacity: 0;
         }
     </style>
 </head>
@@ -115,36 +186,119 @@
     </div>
 
     <script>
-        // Sample press coverage data
+        // Press coverage data
         const pressData = [
             {
-                date: 'June 3rd, 2025',
-                title: 'How AI is Transforming Tech Industry',
-                author: 'Sarah Chen',
-                publication: 'TechDaily',
-                link: 'https://example.com/article1',
-                image: 'https://via.placeholder.com/400x300' // Placeholder image
+                date: 'June 2nd, 2025',
+                title: 'Julia Gersey receives ACM SenSys 2025 Best Poster Award for work on sensing city environments',
+                author: 'ECE News',
+                publication: 'University of Michigan ECE',
+                link: 'https://ece.engin.umich.edu/stories/julia-gersey-receives-acm-sensys-2025-best-poster-award-for-work-on-sensing-city-environments',
+                image: 'assets/press/sensys-best-poster.jpeg',
+                description: 'Research on integrating computer vision-based infrastructure analysis with mobile air quality monitoring to explore urban conditions that can affect human health.'
             },
             {
-                date: 'May 15th, 2025',
-                title: 'The Future of Software Development',
-                author: 'John Smith',
-                publication: 'CodeWeekly',
-                link: 'https://example.com/article2',
-                image: 'https://via.placeholder.com/400x300' // Placeholder image
+                date: 'May 13th, 2025',
+                title: 'U.S. Department of Energy Selects 35th Class of Computational Science Graduate Fellows',
+                author: 'Office of Science',
+                publication: 'U.S. Department of Energy',
+                link: 'https://www.energy.gov/science/articles/us-department-energy-selects-35th-class-computational-science-graduate-fellows',
+                image: 'assets/press/US_DEPARTMENT_OF_ENERGY_Logo.jpg',
+                description: 'Thirty new Ph.D. students will apply high-performance computing to innovative research in fields from quantum computing and AI to energy science.'
+            },
+            {
+                date: 'March 15th, 2025',
+                title: 'Julia Gersey receives DOE Fellowship supporting research to improve urban life',
+                author: 'ECE News',
+                publication: 'University of Michigan ECE',
+                link: 'https://ece.engin.umich.edu/stories/julia-gersey-receives-doe-fellowship-supporting-research-to-improve-urban-life',
+                image: 'assets/press/um-ece-doe.jpg',
+                description: 'Research focuses on developing computational methods to analyze urban infrastructure and environmental conditions.'
+            },
+            {
+                date: 'May 5th, 2023',
+                title: 'BW Air Quality Study Earns National Science Foundation Funding',
+                author: 'BW News',
+                publication: 'Baldwin Wallace University',
+                link: 'https://www.bw.edu/news/2023/spring/05-bw-air-quality-study-earns-national-science-foundation-funding',
+                image: 'assets/press/bw-air-quality-nsf.jpg',
+                description: 'Research project focused on measuring and analyzing air quality in urban environments.'
+            },
+            {
+                date: 'May 5th, 2023',
+                title: 'BW Faculty, Students Travel to Guatemala to Bring Tech to Medical Records System',
+                author: 'BW News',
+                publication: 'Baldwin Wallace University',
+                link: 'https://www.bw.edu/news/2023/spring/05-bw-faculty-students-travel-to-guatemala-to-bring-tech-to-medical-records-system',
+                image: 'assets/press/bw-visits-guatemala-may 2023.jpg',
+                description: 'Technology initiative to improve healthcare delivery in Guatemala through digital medical records system.'
+            },
+            {
+                date: 'May 5th, 2023',
+                title: 'BW Leads Ohio Initiative to Increase Computing Grads',
+                author: 'BW News',
+                publication: 'Baldwin Wallace University',
+                link: 'https://www.bw.edu/news/2023/spring/05-bw-leads-ohio-initiative-to-increase-computing-grads',
+                image: 'assets/press/bw-increase-computing-julia-gersey-acm-w.jpg',
+                description: 'Baldwin Wallace University leads NSF-funded initiative to increase the number of graduates in computer science and related computational fields.'
+            },
+            {
+                date: 'June 6th, 2022',
+                title: 'BW STEM Majors Win NASA Ohio Space Grant Consortium Scholarships',
+                author: 'BW News',
+                publication: 'Baldwin Wallace University',
+                link: 'https://www.bw.edu/news/2022/spring/06-bw-stem-majors-win-nasa-ohio-space-grant-consortium-scholarships',
+                image: 'assets/press/ohio-space-grant-consortium.jpg',
+                description: 'Baldwin Wallace University students receive prestigious NASA Ohio Space Grant Consortium scholarships.'
+            },
+            {
+                date: 'February 1st, 2022',
+                title: 'Baldwin Wallace Steps Up to the Plate',
+                author: 'Bob Sandrick',
+                publication: 'Cleveland Magazine',
+                link: 'https://clevelandmagazine.com/cleader/community/articles/baldwin-wallace-steps-up-to-the-plate',
+                image: 'assets/press/baldwin-wallace-steps-up-to-plate.jpg',
+                description: "The university's new Campus Plate app helps students who are facing food insecurities, developed by BW computer science students."
             }
-            // Add more articles here
         ];
+
+        async function fetchMetadata(url) {
+            try {
+                const proxyUrl = `https://api.allorigins.win/get?url=${encodeURIComponent(url)}`;
+                const response = await fetch(proxyUrl);
+                const data = await response.json();
+                
+                const doc = new DOMParser().parseFromString(data.contents, 'text/html');
+                
+                return doc.querySelector('meta[property="og:image"]')?.content || 
+                       doc.querySelector('meta[name="twitter:image"]')?.content ||
+                       doc.querySelector('meta[name="thumbnail"]')?.content ||
+                       'https://via.placeholder.com/400x300';
+            } catch (error) {
+                console.error('Error fetching metadata:', error);
+                return 'https://via.placeholder.com/400x300';
+            }
+        }
 
         function createArticleCard(article) {
             return `
                 <a href="${article.link}" class="article-link" target="_blank">
                     <div class="article-card">
-                        <img src="${article.image}" alt="${article.title}" class="article-image">
+                        <div class="image-container">
+                            <img src="${article.image}" 
+                                 alt="${article.title}" 
+                                 class="article-image"
+                                 onerror="this.src='https://via.placeholder.com/400x300'">
+                        </div>
                         <div class="article-content">
-                            <div class="article-date">${article.date}</div>
-                            <h2 class="article-title">${article.title}</h2>
-                            <div class="article-author">by ${article.author} - ${article.publication}</div>
+                            <div>
+                                <div class="article-date">${article.date}</div>
+                                <h2 class="article-title">${article.title}</h2>
+                                <div class="article-description">${article.description}</div>
+                            </div>
+                            <div class="article-meta">
+                                <div class="article-author">by ${article.author} - ${article.publication}</div>
+                            </div>
                         </div>
                     </div>
                 </a>
