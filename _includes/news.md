@@ -1,6 +1,6 @@
 ## Recent News
 For a complete archive of media coverage and featured articles, please visit [press coverage](/press.html).
-* **June 11, 2025:** Inducted into UM's 2024-25 Excellence in ECE Honor Roll
+* **June 11, 2025:** Inducted into UM's [2024-25 Excellence in ECE Honor Roll](https://ece.engin.umich.edu/stories/twenty-students-inducted-into-the-2024-2025-excellence-in-ece-honor-roll)
 * **May 13, 2025:** Accepted to the Graduate Student Mentorship Training Course for [UR2PhD](https://cra.org/ur2phd/)
 *   **May 8, 2025:** Best Poster Award for 'Sniffing out the City' at ACM SenSys 2025
 *   **April 9, 2025:** Received a [Department of Energy Computational Science Fellowship](https://www.energy.gov/science/articles/us-department-energy-selects-35th-class-computational-science-graduate-fellows)!
