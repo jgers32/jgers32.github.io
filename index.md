@@ -6,7 +6,7 @@ layout: homepage
 
 I’m a second-year Ph.D. student in Electrical and Computer Engineering at the [University of Michigan][U-Mich], advised by [Pei Zhang][Pei-Zhang]. My research spans mobile computing, sensor networks, and human-centered computing. I’m particularly interested in building sensing networks and smart systems that address environmental and community challenges. 
 
-I’m a [Department of Energy Computational Science Graduate Fellow][DOE-CSGF] (DOE CSGF), supporting my research on a vehicular multimodal sensing system paired with high-performance computing to monitor and analyze rapidly changing urban conditions. This work aims to help cities respond more equitably and allocate resources more efficiently, particularly in areas affected by homelessness. Additionally, I'm a [NSF Center for Pandemic Insights Trainee][NSF-CPI], working on the development and networking for multimodal sensor networks to detect pathogens, disease outbreaks, and key events. 
+I’m a [Department of Energy Computational Science Graduate Fellow][DOE-CSGF] (DOE CSGF), supporting my research on a vehicular multimodal sensing system paired with high-performance computing to monitor and analyze rapidly changing urban conditions. This work aims to help cities respond more equitably and allocate resources more efficiently, particularly in areas affected by homelessness. Additionally, I'm a [NSF Center for Pandemic Insights][NSF-CPI] Trainee, contributing to the development and networking of multimodal sensor systems for detecting pathogens, disease outbreaks, and key environmental events.
 
 Outside of research, I serve as the Labz Editor for [ACM XRDS Magazine][ACM-XRDS] and as a software mentor for the [PiHi Samurai][PiHi] FIRST Robotics team!
 
