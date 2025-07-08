@@ -1,22 +1,18 @@
 document.addEventListener("DOMContentLoaded", function () {
 	const bootLines = [
-	  "Flashing ATmega328P...",
+	  "Flashing STM32...",
 	  "Spooling filament...",
-	  "Compiling circuit netlist...",
-	  "Launching OctoPrint...",
 	  "Pinging Raspberry Pi cluster...",
 	  "Measuring CO₂ levels...",
 	  "Warming up soldering iron...",
-	  "Syncing maker projects...",
 	  "Scanning 3D print queue...",
 	  "Calibrating hedgehog tracker...",
 	  "Loading sensor firmware...",
 	  "Mounting PCB schematics...",
 	  "Linking MQTT topics...",
-	  "Opening garage door... ✔️",
 	  "Bringing up homelab network...",
-	  "Unlocking secret maker mode..."
-	];
+	  "Unlocking secret maker mode...",
+	  "Logging Player One into the OASIS...",	];
   
 	const bootLogContainer = document.getElementById("boot-logs");
 	const makerContent = document.querySelector(".maker-content");

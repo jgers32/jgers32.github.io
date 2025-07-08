@@ -11,7 +11,7 @@ body {
 	  #0f0f0f 30px
 	);
 	font-family: 'Source Code Pro', monospace;
-	color: #00ff99;
+	color: white;
 	overflow-x: hidden;
   }
   
@@ -88,12 +88,62 @@ body {
   #exit-maker {
 	font-family: 'Source Code Pro', monospace;
 	background: black;
-	border: 1px dashed #00ff99;
-	color: #00ff99;
+	border: 1px dashed white;
+	color: white;
 	padding: 6px 12px;
-	box-shadow: 0 0 10px #00ff99;
+	box-shadow: 0 0 10px white;
 	cursor: pointer;
 	margin-top: 1em;
 	display: inline-block;
   }
   
+  .project-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    justify-content: center;
+  }
+
+  .project-card {
+    width: 300px;
+    border: 1px solid #ddd;
+    border-radius: 12px;
+    overflow: hidden;
+    text-align: left;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.05);
+    transition: transform 0.2s;
+    background: gray;
+  }
+
+  .project-card:hover {
+    transform: scale(1.02);
+  }
+
+  .project-card img {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+
+  .project-card .content {
+    padding: 1rem;
+  }
+
+  .project-card h3 {
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+    font-size: 1.25rem;
+  }
+
+  .project-card p {
+    margin: 0 0 0.5rem 0;
+    font-size: 0.95rem;
+    line-height: 1.4;
+	color: black;
+  }
+
+  .project-card ul {
+    padding-left: 1rem;
+    margin: 0.5rem 0 0 0;
+    font-size: 0.9rem;
+  }
