@@ -23,7 +23,7 @@ Outside of research, I serve as the Labz Editor for [ACM XRDS Magazine][ACM-XRDS
 _Didn't find what you came for? If only you knew a code... a Konami code perhaps..._
 
 [U-Mich]: https://ece.engin.umich.edu
-[Pei-Zhang]: https://peizhang.engin.umich.edu
+[Pei-Zhang]: https://sites.google.com/view/peizhang/
 [DOE-CSGF]: https://www.krellinst.org/csgf/
 [NSF-CPI]: https://www.pandemicinsights.org/
 [ACM-XRDS]: https://xrds.acm.org
