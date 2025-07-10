@@ -147,3 +147,14 @@ body {
     margin: 0.5rem 0 0 0;
     font-size: 0.9rem;
   }
+
+
+  #matrix-bg {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: -9999; /* stays far in the back */
+  width: 100vw;
+  height: 100vh;
+  pointer-events: none; /* allows scrolling & clicking */
+}

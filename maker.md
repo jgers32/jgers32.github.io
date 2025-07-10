@@ -3,16 +3,57 @@ layout: maker
 permalink: /maker/
 title: Maker Mode
 ---
+<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r134/three.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/vanta@latest/dist/vanta.cells.min.js"></script>
 
+<h3 style="color: #00ff99;">Booting into Maker Mode...</h3>
+<canvas id="matrix-bg"></canvas>
+<script>
+  const canvas = document.getElementById('matrix-bg');
+  const ctx = canvas.getContext('2d');
 
+  canvas.width = window.innerWidth;
+  canvas.height = window.innerHeight;
 
-<h3>Booting into Maker Mode...</h3>
-<small style="color: #00FF99">+ adding bonus points if you arrived here via the Konami code easter egg...</small><br/>
+  const fontSize = 14;
+  const columns = Math.floor(canvas.width / fontSize);
+  const drops = Array(columns).fill(1);
+  const characters = "01▌▚▞▒▓█░#@$%^&*".split(""); // mix it up a bit
+
+  function drawMatrixRain() {
+    ctx.fillStyle = "rgba(15, 15, 15, 0.1)";
+    ctx.fillRect(0, 0, canvas.width, canvas.height);
+
+    ctx.fillStyle = "rgba(128, 128, 128, 0.4)";
+    ctx.font = `${fontSize}px 'Source Code Pro', monospace`;
+
+    drops.forEach((y, x) => {
+      const char = characters[Math.floor(Math.random() * characters.length)];
+      ctx.fillText(char, x * fontSize, y * fontSize);
+
+      if (y * fontSize > canvas.height && Math.random() > 0.975) {
+        drops[x] = 0;
+      }
+
+      drops[x]++;
+    });
+  }
+
+  setInterval(drawMatrixRain, 33);
+
+  // Handle resizing
+  window.addEventListener("resize", () => {
+    canvas.width = window.innerWidth;
+    canvas.height = window.innerHeight;
+  });
+</script>
+
 
 <div id="boot-logs"></div>
 <div class="maker-content" style="display:none;">
   <div id="maker-body" class="maker-body-content">
-    <button id="exit-maker">Return to Academic Mode</button><br/>
+    <button id="exit-maker">Return to Academic Mode</button>
+    <br />
     <h3>Welcome to my <i>maker</i> corner of the internet!</h3>
     <p>Outside of research, I love 3D printing, tinkering (& breaking things...) with my homelab, hooking up new sensors for my hedgehog's <i>smart home</i>, repurposing old tech as futuristic decor, and building whatever I can get my hands on.</p>
     <p>Here are some of my more recent side projects:</p>
@@ -118,4 +159,8 @@ title: Maker Mode
         </ul>
       </div>
     </div>
+    <!-- <p>Often when I'm researching things for side projects I come across other projects I truly admire. Whether it is the concept, implementation, or just something I wish I had thought of. Here are some projects I admire:</p>
+    <ul>
+      <li>test</li>
+    <ul> -->
 </div>
