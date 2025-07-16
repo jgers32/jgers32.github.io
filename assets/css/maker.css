@@ -104,7 +104,7 @@ body {
     justify-content: center;
   }
 
-  .project-card {
+  /* .project-card {
     width: 300px;
     border: 1px solid #ddd;
     border-radius: 12px;
@@ -113,20 +113,36 @@ body {
     box-shadow: 0 4px 8px rgba(0,0,0,0.05);
     transition: transform 0.2s;
     background: gray;
-  }
+  } */
 
-  .project-card:hover {
-    transform: scale(1.02);
+  .project-card {
+    width: 100%;
+    max-width: 400px; /* or whatever fits your grid */
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    background-color: grey;
   }
 
   .project-card img {
     width: 100%;
-    height: auto;
+    height: 250px;          /* consistent image height */
+    object-fit: cover;      /* crop image to fill the space */
     display: block;
   }
 
   .project-card .content {
     padding: 1rem;
+    flex: 1;                /* allows text box to grow evenly */
+    display: block;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+
+  .project-card:hover {
+    transform: scale(1.02);
   }
 
   .project-card h3 {
@@ -139,7 +155,8 @@ body {
     margin: 0 0 0.5rem 0;
     font-size: 0.95rem;
     line-height: 1.4;
-	color: black;
+	  color: black;
+
   }
 
   .project-card ul {

@@ -55,12 +55,21 @@ title: Maker Mode
     <button id="exit-maker">Return to Academic Mode</button>
     <br />
     <h3>Welcome to my <i>maker</i> corner of the internet!</h3>
-    <p>Outside of research, I love 3D printing, tinkering (& breaking things...) with my homelab, hooking up new sensors for my hedgehog's <i>smart home</i>, repurposing old tech as futuristic decor, and building whatever I can get my hands on.</p>
+    <p>Outside of research, I love 3D printing, tinkering (& breaking things...) with my homelab, hooking up new sensors for my hedgehog's <i>smart home</i>, repurposing old tech as futuristic decor, and building whatever I can get my hands on. I'm also obsessed with the <i>Ready Player One</i> series -- can you tell with some of the project names?</p>
     <p>Here are some of my more recent side projects:</p>
     <br/>
     <div class="project-grid">
     <div class="project-card">
-      <img src="/images/projects/reggie.png" alt="Reggie's Wheel Dashboard">
+      <img src="/images/projects/midnight-gunter.jpg" alt="PC: MidnightGunter">
+      <div class="content">
+        <h3>PC: MidnightGunter</h3>
+        <p>
+          specs: amd ryzen 9 9950x3d granite, gigabyte x870e aorus elite, asus 5070ti prime OC16gb, flare x5 series 2x 16gb, samsung 9100 pro 2tb, wd blue sn7100 1tb msi mag a850gl pcie5 850w plus gold atx, montech xr tempered glass midtower atx case
+        </p>
+      </div>
+    </div>
+    <div class="project-card">
+      <img src="/images/projects/reggie.jpg" alt="Reggie's Wheel Dashboard">
       <div class="content">
         <h3>Reggie's Wheel Tracker</h3>
         <p>
