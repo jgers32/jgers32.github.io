@@ -168,8 +168,14 @@ title: Maker Mode
         </ul>
       </div>
     </div>
-    <!-- <p>Often when I'm researching things for side projects I come across other projects I truly admire. Whether it is the concept, implementation, or just something I wish I had thought of. Here are some projects I admire:</p>
-    <ul>
-      <li>test</li>
-    <ul> -->
+    <div>
+      <p>Often when I'm researching things for my maker projects, I come across other makers and projects I truly admire. Whether it is their projects, projects, or just their way of thinking, the following makers inspire me and my work:</p>
+      <ul>
+        <li><a href="https://en.wikipedia.org/wiki/Limor_Fried">Lady Ada (Limor Fried)</a></li>
+        <li><a href="https://www.makerqueen.com.au/about">Maker Queen (Steph Piper)</a></li>
+        <li><a href="https://beckystern.com/">Becky Stern</a></li>
+        <li><a href="https://www.blitzcitydiy.com/about">Blitz City DIY (Liz Clark)</a></li>
+        <li><a href="https://www.youtube.com/@simonegiertz">Simone Giertz</a></li>
+      </ul>
+    </div>
 </div>
