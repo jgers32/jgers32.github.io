@@ -22,15 +22,15 @@ layout: homepage
 
 <!-- Simple Announcement Banner -->
 <!-- <div class="custom-alert">
-    <strong>🎉 Sept. 2025:</strong> Stepping into the Editor-in-Chief role at <a href="https://xrds.acm.org" target="_blank">ACM XRDS Magazine</a>!
+    <strong>🎉 Oct. 2025:</strong> Stepping into the Editor-in-Chief role at <a href="https://xrds.acm.org" target="_blank">ACM XRDS Magazine</a>!
 </div> -->
 
 
 ## About Me
 
-I'm a second-year Ph.D. student in Electrical and Computer Engineering at the [University of Michigan][U-Mich], advised by [Pei Zhang][Pei-Zhang] in the [Pervasive Electronics Innovations (PEI) Lab][PEI-Lab]. My research spans mobile computing, urban and environmental sensing, and applied machine learning. I'm especially interested in developing and deploying smart sensing networks to address environmental and community challenges.
+I'm a second-year Ph.D. student in Electrical and Computer Engineering at the [University of Michigan][U-Mich], advised by [Pei Zhang][Pei-Zhang] in the [Pervasive Electronics Innovations (PEI) Lab][PEI-Lab]. My research sits at the intersection of mobile computing, urban and environmental sensing, and applied machine learning: building intelligent sensing networks to address environmental and community challenges.
 
-I'm a [Department of Energy Computational Science Graduate Fellow][DOE-CSGF] (DOE CSGF), supporting my research on a vehicular multimodal sensing system paired with high-performance computing to monitor and analyze rapidly changing urban conditions. Additionally, I'm a [NSF Center for Pandemic Insights][NSF-CPI] Trainee, contributing to the development and networking of multimodal sensor systems for detecting pathogens, disease outbreaks, and key environmental events.
+I'm a [Department of Energy Computational Science Graduate Fellow][DOE-CSGF] (DOE CSGF), supporting my research on a vehicular multimodal sensing system paired with high-performance computing to monitor and analyze rapidly changing urban conditions. I'm also a [NSF Center for Pandemic Insights][NSF-CPI] Trainee, contributing to the design and networking of multimodal sensing systems for unobtrusive environmental monitoring, including bat activity detection and pathogen sensing.
 
 ---
 ## Research Interests
@@ -38,7 +38,7 @@ I'm a [Department of Energy Computational Science Graduate Fellow][DOE-CSGF] (DO
 - **Embedded & Mobile Computing:** smart cities, internet-of-things, wireless networks
 - **Sensor Networks:** urban & environmental monitoring, human health sensing
 - **Human-Centered Computing:** ubiquitous systems, real-world deployments
-- **Applied Machine Learning:** cross-modal transfer, integrating physical context
+- **Applied Machine Learning:** cross-modal fusion, integrating physical context
 
 ---
 {% include_relative _includes/publications.md %}
