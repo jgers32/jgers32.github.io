@@ -1,5 +1,13 @@
 main:
 
+  - title: "Human vs. Machine: Comparing Urban Condition Classification Methods from Vehicular Vision" 
+    authors: <strong>Julia Gersey</strong>, Troy Zhong, Jiale Zhang, Jesse Codling, Jackelyn Hwang, Pei Zhang
+    type: Workshop Paper
+    conference_short: BALANCES
+    conference: ACM International Workshop on Big Data and Machine Learning for Smart Buildings and Cities, 2025.
+    # pdf: 
+    image: ./assets/img/final-balances.png
+
   - title: "‘Sniffing Out the City’ - Vehicular Multimodal Sensing for Environmental and Infrastructure Analysis" 
     authors: <strong>Julia Gersey</strong>, Jatin Aggarwal, Jiale Zhang, Jesse Codling, Pei Zhang
     type: Poster
