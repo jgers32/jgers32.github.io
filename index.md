@@ -20,10 +20,9 @@ layout: homepage
 }
 </style>
 
-<!-- Simple Announcement Banner -->
-<!-- <div class="custom-alert">
-    <strong>🎉 Oct. 2025:</strong> Stepping into the Editor-in-Chief role at <a href="https://xrds.acm.org" target="_blank">ACM XRDS Magazine</a>!
-</div> -->
+<div class="custom-alert">
+    <strong>🎉</strong> I've been selected as the next Editor-in-Chief of <a href="https://xrds.acm.org" target="_blank">ACM XRDS Magazine</a>! (starts Nov 1st)
+</div>
 
 
 ## About Me

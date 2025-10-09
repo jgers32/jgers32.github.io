@@ -1,10 +1,10 @@
 ## Recent News
 For a complete archive of media coverage and featured articles, please visit [press coverage](/press.html).
-<!-- * **September 2025:** Elected as the new Editor-in-Chief for the [ACM XRDS Magazine](https://xrds.acm.org/)!  -->
-* **Oct 3, 2025:** 'Human vs. Machine' Urban Condition paper accepted to [ACM BALANCES](https://acmbalances.org/) 
+* **October 2025:** Selected as the incoming Editor-in-Chief of [ACM XRDS Magazine](https://xrds.acm.org/)! 
+* **October 3, 2025:** Urban Condition Classification paper accepted to [ACM BALANCES](https://acmbalances.org/) 
 * **June 11, 2025:** Inducted into UM's [2024-25 Excellence in ECE Honor Roll](https://ece.engin.umich.edu/stories/twenty-students-inducted-into-the-2024-2025-excellence-in-ece-honor-roll)
 * **May 13, 2025:** Accepted to the Graduate Student Mentorship Training Course for [UR2PhD](https://cra.org/ur2phd/)
-*   **May 8, 2025:** Best Poster Award for 'Sniffing out the City' at ACM SenSys 2025
+*   **May 8, 2025:** [Best Poster Award](https://ece.engin.umich.edu/stories/julia-gersey-receives-acm-sensys-2025-best-poster-award-for-work-on-sensing-city-environments) for 'Sniffing out the City' at [ACM SenSys 2025](https://sensys.acm.org/2025/)
 *   **April 9, 2025:** Received a [Department of Energy Computational Science Fellowship](https://www.energy.gov/science/articles/us-department-energy-selects-35th-class-computational-science-graduate-fellows)!
 <!-- *   **March 10, 2025:** 'Sniffing out the City' Poster was accepted to [ACM SenSys 2025](https://sensys.acm.org/2025/) -->
 *   **December 20, 2024:** Accepted to Computing Research Association's [Grad Cohort](https://cra.org/cra-wp/grad-cohort-for-women/) 
