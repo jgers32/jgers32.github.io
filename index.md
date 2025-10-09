@@ -27,9 +27,9 @@ layout: homepage
 
 ## About Me
 
-I'm a second-year Ph.D. student in Electrical and Computer Engineering at the [University of Michigan][U-Mich], advised by [Pei Zhang][Pei-Zhang] in the [Pervasive Electronics Innovations (PEI) Lab][PEI-Lab]. My research sits at the intersection of mobile computing, urban and environmental sensing, and applied machine learning: building intelligent sensing networks to address environmental and community challenges.
+I'm a second-year Ph.D. student in Electrical and Computer Engineering at the [University of Michigan][U-Mich], advised by [Pei Zhang][Pei-Zhang] in the [Pervasive Electronics Innovations (PEI) Lab][PEI-Lab]. I specialize in **multimodal sensing and cross-modal inference**, developing approaches that combine embedded hardware, heterogeneous data, and machine learning to **infer hidden environmental and urban context**, i.e. phenomena that are often beyond the reach of any single sensing modality or cannot be directly measured. My work takes a **human-centered approach**, focusing on how these insights can inform environmental understanding, urban resilience, and data-driven smart-city systems.
 
-I'm a [Department of Energy Computational Science Graduate Fellow][DOE-CSGF] (DOE CSGF), supporting my research on a vehicular multimodal sensing system paired with high-performance computing to monitor and analyze rapidly changing urban conditions. I'm also a [NSF Center for Pandemic Insights][NSF-CPI] Trainee, contributing to the design and networking of multimodal sensing systems for unobtrusive environmental monitoring, including bat activity detection and pathogen sensing.
+I'm a [Department of Energy Computational Science Graduate Fellow][DOE-CSGF] (DOE CSGF), supporting my work on vehicular multimodal sensing systems coupled with high-performance computing to monitor and analyze rapidly changing urban conditions. In parallel, as a [NSF Center for Pandemic Insights][NSF-CPI] Trainee, I focus on developing and networking robust multimodal “everything” sensors that integrate thermal, acoustic, visual, and air-quality modalities for environmental and bat activity monitoring.
 
 ---
 ## Research Interests
