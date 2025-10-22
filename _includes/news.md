@@ -1,20 +1,21 @@
 ## Recent News
 For a complete archive of media coverage and featured articles, please visit [press coverage](/press.html).
-* **October 2025:** Selected as the incoming Editor-in-Chief of [ACM XRDS Magazine](https://xrds.acm.org/)! 
+* **October 9, 2025:** Selected as the incoming Editor-in-Chief of [ACM XRDS Magazine](https://xrds.acm.org/)! 
 * **October 3, 2025:** Urban Condition Classification paper accepted to [ACM BALANCES](https://acmbalances.org/) 
+* **August 25, 2025:** Awarded 2x [NSF CPI](https://www.pandemicinsights.org/) Interdisciplinary Research Awards
 * **June 11, 2025:** Inducted into UM's [2024-25 Excellence in ECE Honor Roll](https://ece.engin.umich.edu/stories/twenty-students-inducted-into-the-2024-2025-excellence-in-ece-honor-roll)
 * **May 13, 2025:** Accepted to the Graduate Student Mentorship Training Course for [UR2PhD](https://cra.org/ur2phd/)
 *   **May 8, 2025:** [Best Poster Award](https://ece.engin.umich.edu/stories/julia-gersey-receives-acm-sensys-2025-best-poster-award-for-work-on-sensing-city-environments) for 'Sniffing out the City' at [ACM SenSys 2025](https://sensys.acm.org/2025/)
 *   **April 9, 2025:** Received a [Department of Energy Computational Science Fellowship](https://www.energy.gov/science/articles/us-department-energy-selects-35th-class-computational-science-graduate-fellows)!
 <!-- *   **March 10, 2025:** 'Sniffing out the City' Poster was accepted to [ACM SenSys 2025](https://sensys.acm.org/2025/) -->
 *   **December 20, 2024:** Accepted to Computing Research Association's [Grad Cohort](https://cra.org/cra-wp/grad-cohort-for-women/) 
-*   **August 26, 2024:** Started my Ph.D. at the University of Michigan -- Go Blue!
-*   **May 3, 2024:** Speaking about AQIoT project at the ACM SIGCAS [Work in Progress](https://www.sigcas.org/2024/03/28/may-3-2024-double-feature-fine-grained-air-quality-sensing-with-internet-of-things-soothsayers-illusionists-con-artists-and-artificial-intelligence/) event
+*   **August 26, 2024:** Started my Ph.D. at the University of Michigan... *Go Blue*!
+
+<!-- *   **May 3, 2024:** Speaking about AQIoT project at the ACM SIGCAS [Work in Progress](https://www.sigcas.org/2024/03/28/may-3-2024-double-feature-fine-grained-air-quality-sensing-with-internet-of-things-soothsayers-illusionists-con-artists-and-artificial-intelligence/) event
 *   **April 2024:** Honored to recieve the Baldwin Wallace  Woman of Achievement Award 
 *   **April 4, 2024:** Honorable Mention for the 2024 [NSF GRFP](https://www.research.gov/grfp/AwardeeList.do?method=loadAwardeeList)
 *   **January 8, 2024:** Selected as 1 of 55 Finalists for the [NCWIT AiC Collegiate Award](https://www.aspirations.org/award-programs/aic-collegiate-award)
-
-<!-- *   **August 2023:** Awarded the top [CIO Tomorrow Scholarship](https://www.cio-tomorrow.com/studentscholarship.html) at $3,590
+*   **August 2023:** Awarded the top [CIO Tomorrow Scholarship](https://www.cio-tomorrow.com/studentscholarship.html) at $3,590
 *   **July 2023:** Paper on Air Quality Deployment results accepted to [ACM CCSC Midwest Conference](https://www.ccsc.org/midwest/)
 *   **March 2023:** Awarded a [NASA Ohio Space Grant Consortium](http://osgc.org/recipients/) Research Scholarship for 2023-24
 *   **March 8, 2023:** Accepted into Carnegie Mellon's [Human-Computer Interaction Institute REU](https://hcii.cmu.edu/summer-research-program)
