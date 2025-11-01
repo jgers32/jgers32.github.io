@@ -135,7 +135,7 @@ let fileSystem = {
                             },
                             'readme.md': { 
                                 type: 'file', 
-                                content: 'Welcome to my maker space!\n\nTry these commands:\n- ls projects        : See all my projects\n- view [project]     : View project details\n- cat projects/[name]: Read project info\n- grep [term]       : Search projects\n- help              : Show all commands'
+                                content: 'Welcome to my maker space!\n\nTry these commands:\n- ls projects        : See all my projects\n- view [project]     : View project details\n- grep [term]       : Search projects\n- help              : Show all commands'
                             }
                         }
                     }
