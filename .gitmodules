@@ -1,0 +1,3 @@
+[submodule "assets/terminux"]
+	path = assets/terminux
+	url = https://github.com/RyZenoKelb/Terminux.git
