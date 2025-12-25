@@ -2,7 +2,7 @@
 For a complete archive of media coverage and featured articles, please visit [press coverage](/press.html).
 * **December 18, 2025:** Profiled as a [People of ACM](https://www.acm.org/articles/people-of-acm/2025/julia-gersey) feature
 * **November 5, 2025:** Featured in [UM ECE News](https://ece.engin.umich.edu/stories/julia-gersey-named-editor-in-chief-of-association-of-computing-machinery-xrds-magazine) on serving as EiC of ACM XRDS
-* **October 9, 2025:** Selected as Editor-in-Chief of [ACM XRDS Magazine](https://xrds.acm.org/)! 
+* **October 9, 2025:** Selected as [Editor-in-Chief](https://www.acm.org/media-center/acm-updates) of [ACM XRDS Magazine](https://xrds.acm.org/)! 
 * **October 3, 2025:** Urban Condition Classification paper accepted to [ACM BALANCES](https://acmbalances.org/) 
 * **August 25, 2025:** Awarded 2x [NSF CPI](https://www.pandemicinsights.org/) Interdisciplinary Research Awards
 * **June 11, 2025:** Inducted into UM's [2024-25 Excellence in ECE Honor Roll](https://ece.engin.umich.edu/stories/twenty-students-inducted-into-the-2024-2025-excellence-in-ece-honor-roll)
