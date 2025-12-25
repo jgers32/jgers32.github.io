@@ -5,7 +5,7 @@ main:
     type: Workshop Paper
     conference_short: BALANCES
     conference: ACM International Workshop on Big Data and Machine Learning for Smart Buildings and Cities, 2025.
-    # pdf: 
+    pdf: https://dl.acm.org/doi/10.1145/3736425.3772319
     image: ./assets/img/final-balances.png
 
   - title: "‘Sniffing Out the City’ - Vehicular Multimodal Sensing for Environmental and Infrastructure Analysis" 

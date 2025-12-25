@@ -1,10 +1,12 @@
 ## Recent News
 For a complete archive of media coverage and featured articles, please visit [press coverage](/press.html).
-* **October 9, 2025:** Selected as the incoming Editor-in-Chief of [ACM XRDS Magazine](https://xrds.acm.org/)! 
+* **December 18, 2025:** Profiled as a [People of ACM](https://www.acm.org/articles/people-of-acm/2025/julia-gersey) feature
+* **November 5, 2025:** Featured in [UM ECE News](https://ece.engin.umich.edu/stories/julia-gersey-named-editor-in-chief-of-association-of-computing-machinery-xrds-magazine) on serving as EiC of ACM XRDS
+* **October 9, 2025:** Selected as Editor-in-Chief of [ACM XRDS Magazine](https://xrds.acm.org/)! 
 * **October 3, 2025:** Urban Condition Classification paper accepted to [ACM BALANCES](https://acmbalances.org/) 
 * **August 25, 2025:** Awarded 2x [NSF CPI](https://www.pandemicinsights.org/) Interdisciplinary Research Awards
 * **June 11, 2025:** Inducted into UM's [2024-25 Excellence in ECE Honor Roll](https://ece.engin.umich.edu/stories/twenty-students-inducted-into-the-2024-2025-excellence-in-ece-honor-roll)
-* **May 13, 2025:** Accepted to the Graduate Student Mentorship Training Course for [UR2PhD](https://cra.org/ur2phd/)
+* **May 13, 2025:** Accepted to [UR2PhD](https://cra.org/ur2phd/) Graduate Student Mentorship Training Course
 *   **May 8, 2025:** [Best Poster Award](https://ece.engin.umich.edu/stories/julia-gersey-receives-acm-sensys-2025-best-poster-award-for-work-on-sensing-city-environments) for 'Sniffing out the City' at [ACM SenSys 2025](https://sensys.acm.org/2025/)
 *   **April 9, 2025:** Received a [Department of Energy Computational Science Fellowship](https://www.energy.gov/science/articles/us-department-energy-selects-35th-class-computational-science-graduate-fellows)!
 <!-- *   **March 10, 2025:** 'Sniffing out the City' Poster was accepted to [ACM SenSys 2025](https://sensys.acm.org/2025/) -->
