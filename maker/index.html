@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Julia Gersey - Maker</title>
+	<link rel="shortcut icon" type="image/x-icon" href="/images/favicon.ico?">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="terminal" class="terminal-window">
+        <div class="title-bar">
+            <div class="window-controls">
+                <span class="control-btn close" title="Close"></span>
+                <span class="control-btn minimize">−</span>
+                <span class="control-btn maximize">□</span>
+            </div>
+            <div class="tabs-container">
+                <div class="tab active" data-tab="main">
+                    <span class="tab-title">Terminal</span>
+                    <span class="tab-close" style="display: none;">×</span>
+                </div>
+            </div>
+        </div>
+
+        <!-- Terminal content -->
+        <div class="terminal-content">
+            <div id="output" class="output"></div>
+            <div class="input-line">
+                <span id="prompt" class="prompt">maker@juliagersey:~$ </span>
+                <input type="text" id="commandInput" class="command-input" autofocus>
+            </div>
+        </div>
+    </div>
+    <button class="view-toggle-btn" id="viewToggle" title="Switch to Non-Terminal View">
+        Non-Terminal View
+    </button>
+    <div id="gallery-view" class="gallery-view" style="display: none;"></div>
+</body>
+<script src="script.js"></script>
+
+</html>
