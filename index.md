@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I’m a second-year Ph.D. student in Electrical & Computer Engineering at the [University of Michigan][U-Mich], advised by [Pei Zhang][PEI-Lab]. My research lies at the intersection of sensing, systems, and human-centered computing, where I develop mobile systems that integrate diverse sensing modalities and data streams for real-world deployments. Specifically, my work contributes cross-modal fusion methods that relate visual and environmental sensing to reveal how multiple modalities capture complementary aspects of urban and natural environments. I’m a [DOE Computational Science Graduate Fellow][DOE-CSGF] and the Editor-in-Chief of [ACM XRDS Magazine][ACM-XRDS].
+I’m a Ph.D. student in Electrical & Computer Engineering at the [University of Michigan][U-Mich], advised by [Pei Zhang][PEI-Lab]. My research lies at the intersection of sensing networks, embedded systems, and applied machine learning. I build mobile sensing systems that integrate diverse modalities for real-world deployments, focusing on cross-modal fusion methods that reveal how multiple sensors capture complementary aspects of built and natural environments. I’m a [DOE Computational Science Graduate Fellow][DOE-CSGF] and the Editor-in-Chief of [ACM XRDS Magazine][ACM-XRDS].
 
 ---
 
