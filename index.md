@@ -22,9 +22,19 @@ I’m a Ph.D. student in Electrical & Computer Engineering at the [University of
 {% include_relative _includes/news.md %}
 
 ---
+
+## Affiliations
+- [U.S. Department of Energy][DOE-CSGF] - Computational Science Graduate Fellow
+- [ACM XRDS Magazine][ACM-XRDS] - Editor-in-Chief
+- [NSF Center for Pandemic Insights][NSF-CPI] - Graduate Researcher
+- [PiHi Samurai][PiHi] - Robotics Mentor
+- [Elevate Kids][Elevate] - Board Member
+
+---
 Thanks for visiting my website! Here a map of recent visitors :) 
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=m&d=TTHZKf_1hhvVLJgHTLuTRCBIfj-eXwzS7IWZfdI88QY&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
+
 
 [U-Mich]: https://ece.engin.umich.edu
 [Pei-Zhang]: https://sites.google.com/view/peizhang/
@@ -32,3 +42,5 @@ Thanks for visiting my website! Here a map of recent visitors :)
 [DOE-CSGF]: https://www.krellinst.org/csgf/
 [NSF-CPI]: https://www.pandemicinsights.org/
 [ACM-XRDS]: https://xrds.acm.org
+[Elevate]: https://elevatekidsplay.org
+[PiHi]: https://pihisamurai.org/ 
