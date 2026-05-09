@@ -1,6 +1,27 @@
 ---
 layout: homepage
 ---
+<style>
+.custom-alert {
+    padding: 1rem;
+    margin-bottom: 2rem;
+    border: 1px solid transparent;
+    border-radius: 0.375rem;
+    background-color: #d1ecf1;
+    border-color: #bee5eb;
+    color: #0c5460;
+    text-align: center;
+}
+
+.custom-alert strong {
+    font-weight: 600;
+}
+</style>
+
+<div class="custom-alert">
+    I'll be at Argonne National Lab this summer working on multimodal AI for edge sensing systems <strong>🎉</strong> In Chicago and wanna chat research? Coffee on me!
+</div>
+
 
 ## About Me
 
