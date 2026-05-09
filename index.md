@@ -19,7 +19,7 @@ layout: homepage
 </style>
 
 <div class="custom-alert">
-    I'll be at Argonne National Lab this summer working on multimodal AI for edge sensing systems <strong>🎉</strong> In Chicago and wanna chat research? Coffee on me!
+    I'll be at Argonne National Lab this summer working on multimodal AI for edge sensing systems <strong>🎉</strong> In Chicago and wanna chat research? I'll buy you a coffee!
 </div>
 
 
