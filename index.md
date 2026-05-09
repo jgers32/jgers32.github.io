@@ -7,9 +7,9 @@ layout: homepage
     margin-bottom: 2rem;
     border: 1px solid transparent;
     border-radius: 0.375rem;
-    background-color: #d1ecf1;
-    border-color: #bee5eb;
-    color: #0c5460;
+    background-color: #e8f4ff;
+    border-color: #c7e2ff;
+    color: #2b5f8a; 
     text-align: center;
 }
 
@@ -19,7 +19,7 @@ layout: homepage
 </style>
 
 <div class="custom-alert">
-    I'll be at Argonne National Lab this summer working on multimodal AI for edge sensing systems <strong>🎉</strong> In Chicago and wanna chat research? I'll buy you a coffee!
+    <strong>I'll be at Argonne National Lab this summer working on multimodal AI for edge sensing systems <strong>🎉</strong> In Chicago and wanna chat research? I'll buy you a coffee!</strong>
 </div>
 
 
